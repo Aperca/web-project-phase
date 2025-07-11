@@ -27,30 +27,29 @@ Users can:
 ---
 
 ## 📸 Screenshots
-
 ### 🏠 Main Page
 
-![Main Page](screenshots/main.jpg)  
+<img src="screenshots/main.jpg" width="400" alt="Main Page" />  
 This is the main interface of the app where you can add tasks.
 
 ### ➕ Add Task
 
-![Add Task](screenshots/add.jpg)  
+<img src="screenshots/add.jpg" width="400" alt="Add Task" />  
 Shows a new task being added to the list.
 
 ### ✏️ Edit Task
 
-![Edit Task](screenshots/edit.jpg)  
+<img src="screenshots/edit.jpg" width="400" alt="Edit Task" />  
 Shows how you can edit a specific task by clicking the `edit` button.
 
 ### ❌ Delete Task
 
-![Delete Task](screenshots/delete.jpg)  
+<img src="screenshots/delete.jpg" width="400" alt="Delete Task" />  
 Shows how a task can be deleted by clicking the `X` button.
 
 ### ✅ Check Off Task
 
-![Done Task](screenshots/done.jpg)  
+<img src="screenshots/done.jpg" width="400" alt="Done Task" />  
 Tasks can be marked as done using the checkbox (strikethrough effect).
 
 ---
