@@ -23,7 +23,7 @@ function saveTasks() {
 function createTaskElement(text, done = false) {
     const taskItem = document.createElement('li');
 
-    const taskContent = document.createElement('div'); // grouping box
+    const taskContent = document.createElement('div'); 
     taskContent.className = 'task-content';
 
     const checkbox = document.createElement('input');
@@ -63,7 +63,6 @@ function createTaskElement(text, done = false) {
         }
     });
 
-    // group checkbox + task text together
     taskContent.appendChild(checkbox);
     taskContent.appendChild(taskText);
 

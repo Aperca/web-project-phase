@@ -14,12 +14,12 @@ Users can:
 
 1. Clone the repo:
    ```
-   git clone https://github.com/your-username/todo-list.git
+   git clone https://github.com/Aperca/web-project-phase.git
    ```
 
 2. Open the folder:
    ```
-   cd todo-list
+   cd web-project-phase
    ```
 
 3. Then open `index.html` in your browser (you can double-click it or use VS Code Live Server).
@@ -57,4 +57,4 @@ Tasks can be marked as done using the checkbox (strikethrough effect).
 
 ## 🔗 GitHub Repository
 
-👉 [View the repo here](https://github.com/your-username/todo-list)
+👉 [View the repo here](https://github.com/Aperca/web-project-phase/tree/main/js_tasks)
