@@ -1,0 +1,84 @@
+.contact-form-container {
+    min-height: 100vh;
+    background-color: #f3f4f6;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+  }
+  
+  .contact-form {
+    background-color: white;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+    border-radius: 0.5rem;
+    padding: 2rem;
+    width: 100%;
+    max-width: 28rem;
+  }
+  
+  .contact-form h2 {
+    font-size: 1.5rem;
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 1.5rem;
+  }
+  
+  .form-group {
+    margin-bottom: 1rem;
+  }
+  
+  .form-group label {
+    font-size: 0.875rem;
+    font-weight: 500;
+    display: block;
+    margin-bottom: 0.25rem;
+  }
+  
+  .form-control {
+    width: 100%;
+    padding: 0.75rem;
+    border: 1px solid #d1d5db;
+    border-radius: 0.375rem;
+  }
+  
+  .form-control:focus {
+    outline: none;
+    border-color: #3b82f6;
+    box-shadow: 0 0 0 2px rgba(59, 130, 246, 0.5);
+  }
+  
+  .error-border {
+    border-color: #ef4444;
+  }
+  
+  .error-message {
+    color: #ef4444;
+    font-size: 0.875rem;
+    margin-top: 0.25rem;
+  }
+  
+  .submit-btn {
+    width: 100%;
+    background-color: #3b82f6;
+    color: white;
+    padding: 0.75rem;
+    border-radius: 0.375rem;
+    border: none;
+    cursor: pointer;
+    margin-top: 1.5rem;
+  }
+  
+  .submit-btn:hover {
+    background-color: #2563eb;
+  }
+  
+  .submit-btn:focus {
+    outline: none;
+    box-shadow: 0 0 0 2px rgba(59, 130, 246, 0.5);
+  }
+  
+  .success-message {
+    color: #16a34a;
+    text-align: center;
+    margin-top: 1rem;
+  }
